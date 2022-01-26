@@ -1,5 +1,6 @@
 #Resume
 [Daniel Kantorowicz Technical Writer Resume 2.0.docx](https://github.com/DanielKantorowicz/Work-Samples/files/7944265/Daniel.Kantorowicz.Technical.Writer.Resume.2.0.docx)
+
 #Cover Letter
 [Daniel Kantorowicz Cover Letter.docx](https://github.com/DanielKantorowicz/Work-Samples/files/7944266/Daniel.Kantorowicz.Cover.Letter.docx)
 
