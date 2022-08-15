@@ -22,6 +22,9 @@ Work Sample #5
 Work Sample #6
 [Special Assignments.pdf](https://github.com/DanielKantorowicz/Work-Samples/files/7944308/Special.Assignments.pdf)
 
+Work Sample #7
+[XBOX Game Studios - Confluence Content Management](https://github.com/DanielKantorowicz/Work-Samples/blob/3c66c6522ac866ab2ba4fc410bf618433a92111a/Microsoft.PNG)
+
 
 
 
