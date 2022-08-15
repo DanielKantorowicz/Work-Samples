@@ -25,6 +25,9 @@ Work Sample #6
 Work Sample #7
 [XBOX Game Studios - Confluence Content Management](https://github.com/DanielKantorowicz/Work-Samples/blob/3c66c6522ac866ab2ba4fc410bf618433a92111a/Microsoft.PNG)
 
-
+Work Sample #8
+[Metrics Accountability](https://github.com/DanielKantorowicz/Work-Samples/blob/20ac118518e3829da4c0472a76d014cb1c7888ad/Metrics_Page_1.png)
+[Metrics Accountabilty #2](https://github.com/DanielKantorowicz/Work-Samples/blob/20ac118518e3829da4c0472a76d014cb1c7888ad/Metrics_Page_2.png)
+[Metrics Accountabilty #3](https://github.com/DanielKantorowicz/Work-Samples/blob/20ac118518e3829da4c0472a76d014cb1c7888ad/Metrics_Page_3.png)
 
 
